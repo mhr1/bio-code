@@ -1,0 +1,1 @@
+g++ -Wall g_data_analysis.cpp FASTA_reader.cpp -o g_data
