@@ -97,7 +97,7 @@ int FASTA::read_all_header_IDs(const char* filename)
 			
 			//cout << "Header " << number_of_headers << " = " << temp << endl;
 			header_list += temp_str.assign(temp);
-			header_list += " ";
+			header_list += "\n";
 			number_of_headers++;
 		}
 	} 
