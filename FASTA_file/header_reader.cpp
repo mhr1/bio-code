@@ -3,7 +3,7 @@
  *  
  *
  *  Created by Mhr on 07/03/2012.
- *  Copyright 2012 University of Wales, Aberystwyth. All rights reserved.
+ *  Copyright 2012 Michael C. Riley. All rights reserved.
  *
  */
 
