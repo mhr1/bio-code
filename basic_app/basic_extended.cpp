@@ -1,16 +1,12 @@
 /********************************************************************
  
- HELYGEN: a general purpose library for primer design.
- 
- helygen_basic.cpp
+basic_app.cpp
  
  Created by:	Michael C. Riley
-				Amanda Clare
  
  Date:			05/11/2011
- 
- Copyright (c) 2010, 2011 Aberystwyth University. 
- All rights reserved.
+
+ Copyright 2011, Michael C. Riley.
  
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
